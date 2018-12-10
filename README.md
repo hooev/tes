@@ -1,4 +1,1 @@
-daftar | keterangan
--------|-----------
-kontol | this is kontol, you know ?
-memek | this is memek, you know ?
+![1](https://img.shields.io/badge/support-youtube-red.svg)
