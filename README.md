@@ -1,1 +1,2 @@
-![memek](https://github.com/mattermost/docs/issues/2424#issue-389531739)
+I think you should use an
+`<addr>` element here instead.
