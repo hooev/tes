@@ -1,1 +1,1 @@
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+![memek](https://github.com/mattermost/docs/issues/2424#issue-389531739)
